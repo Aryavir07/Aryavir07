@@ -6,9 +6,9 @@
 ### I'm currently open for Research/SDE Internship opportunities.
 ### Feel free to reach out at -> aryavir.singh07@gmail.com
 - 🔭 I’m currently learing Full Stack Web Development And Machine Learning !
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Music Composing
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love Music Composing.
 ### Connect with me:
 [<img align="left" alt="aryaveer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aryaveer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
