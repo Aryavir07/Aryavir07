@@ -3,7 +3,7 @@
 ### Some of my interests include Web-Programming, Machine Learning, and Research in Computer Science. I have good knowledge of core computer science subjects like Object-Oriented Programming, Database Management System, Operating Systems, and Networking and Data structures and Algorithms.
 ### I'm currently open for Research/SDE Internship opportunities.
 ### Feel free to reach out at -> aryavir.singh07@gmail.com
-- 🔭 I’m currently learing Full Stack Web Development And Machine Learning !
+- 🔭 I’m currently learning Full Stack Web Development And Machine Learning !
 - 🌱 I’m currently learning everything. 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love Music Composing.
