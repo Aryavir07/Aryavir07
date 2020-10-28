@@ -1,7 +1,7 @@
 ### Hi there👋 , I'm Aryaveer. 
 ### I'm a pre-final year student currently studying Computer Science and Engineering at GGS Indraprastha University, New Delhi.
 ### Some of my interests include Web-Programming, Machine Learning, and Research in Computer Science. I have good knowledge of core computer science subjects like Object-Oriented Programming, Database Management System, Operating Systems, and Networking and Data structures and Algorithms.
-### I'm currently open for Research/SDE Internship opportunities.
+### I'm currently open for SWE/SDE Internship opportunities.
 ### Feel free to reach out at -> aryavir.singh07@gmail.com
 - 🔭 I’m currently learning Full Stack Web Development And Machine Learning !
 - 🌱 I’m currently learning everything. 🤣
