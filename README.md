@@ -1,4 +1,4 @@
-### Hi there👋 , I'm Aryaveer. 
+### Hi there👋 , I'm Aryaveer.  ![](https://komarev.com/ghpvc/?username=Aryavir07&label=PROFILE+VIEWS)
 ##### First and foremost, I love writing code. Ever since writing my first program in C language and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem specially security related problems. 
 ##### I believe in the power of programming to transform and improve the lives of people around the world.
 
@@ -46,7 +46,6 @@
 <!--
 **Aryavir07/Aryavir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![](https://komarev.com/ghpvc/?username=Aryavir07&label=PROFILE+VIEWS)
 [![Aarya's github stats](https://github-readme-stats.vercel.app/api?username=Aryavir07&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
