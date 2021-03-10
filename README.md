@@ -4,7 +4,7 @@
 
 ##### My specialties include quickly learning new skills and programming languages, problem solving, website optimization and Model View Controller methods of organizing code. Till now, I have HTML, CSS, Javascript(Basics), Bootstrap, C++, Python, Django, Flask, SQL and Github under my belt.
 ##### I have started learning Machine Learning specially Computer Vision I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
-##### I'm currently open for SWE/SDE Internship opportunities.
+##### I'm currently open for Internship opportunities.
 ##### Feel free to reach out at -> aryavir.singh07@gmail.com
 - 🔭 I’m currently learning Full Stack Web Development And Machine Learning !
 - 🌱 I’m currently learning everything. 🤣
