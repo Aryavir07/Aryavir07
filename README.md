@@ -6,10 +6,6 @@
 ##### I have started learning Machine Learning specially Computer Vision I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
 ##### I'm currently open for Internship opportunities.
 ##### Feel free to reach out at -> aryavir.singh07@gmail.com
-- 🔭 I’m currently learning Full Stack Web Development And Machine Learning !
-- 🌱 I’m currently learning everything. 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love Music Composing.
 ##### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
