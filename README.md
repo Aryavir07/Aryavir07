@@ -5,7 +5,6 @@
 ##### My specialties include quickly learning new skills and programming languages, problem solving, website optimization and Model View Controller methods of organizing code. Till now, I have HTML, CSS, Javascript(Basics), Bootstrap, C++, Python, Django, Flask, SQL and Github under my belt.
 ##### I have started learning Machine Learning specially Computer Vision I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
 ##### I'm currently open for Internship opportunities.
-##### Feel free to reach out at -> aryavir.singh07@gmail.com
 ##### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
