@@ -2,8 +2,8 @@
 ##### First and foremost, I love writing code. Ever since writing my first program in C++ language and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem specially security related problems. 
 ##### I believe in the power of programming to transform and improve the lives of people around the world.
 
-##### My specialties include quickly learning new skills and programming languages, problem solving, website optimization and Model View Controller methods of organizing code. Till now, I have HTML, CSS, Javascript(Basics), Bootstrap, C++, Python, Django, Flask, SQL and Github under my belt.
-##### Machine Learning specially Computer Vision I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
+##### My specialties include quickly learning new skills and programming languages, problem solving, website optimization and Model View Controller methods of organizing code. Till now, I have Python, C++, Java, HTML/CSS, Javascript(Basics), Django, Flask, SQL and Github under my belt.
+##### Machine Learning specially Computer Vision and NLP, I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
 ##### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
