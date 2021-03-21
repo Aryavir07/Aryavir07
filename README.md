@@ -4,6 +4,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
 ![Profile views](https://gpvc.arturio.dev/Aryavir07) 
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="230" />
 - 🔭 I’m currently working on Deep Learning Projects 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Research 
