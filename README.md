@@ -10,7 +10,7 @@ My specialties include quickly learning new skills and programming languages, pr
 - 🔭 I’m currently working on Deep Learning Projects 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 How to reach me? <a href="https://www.linkedin.com/in/aryavir07/">Click here !</a>
-- 😄 Pronouns: Arya 
+- 😊 Resume: <a href="https://drive.google.com/file/d/1D8hZHhIhUHO4f7mI5kPGzTErraqVZPIn/view"> Here </a> 
 
 
 
