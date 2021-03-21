@@ -9,7 +9,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
 - 🔭 I’m currently working on Deep Learning Projects 
 - 🌱 I’m currently learning Artificial Intelligence 
-- 👯 I’m looking to collaborate on Research 
+- 👯 I’m looking for Research Internships
 - 😄 Pronouns: Arya 
 
 
