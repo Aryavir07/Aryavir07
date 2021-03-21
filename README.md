@@ -32,10 +32,10 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=tokyonight)
+
 
 📈 My GitHub Stats
-
+<p> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=tokyonight) </p>
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&theme=gotham" alt="Aryavir07" />
 
 
