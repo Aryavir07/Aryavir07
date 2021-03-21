@@ -2,9 +2,11 @@
 My specialties include quickly learning new skills and programming languages, problem-solving, website optimization, and Model View Controller methods of organizing code. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) 
 #####  I'm open for research collaborations in the field of AI and Security & Privacy.
 
-![Profile views](https://gpvc.arturio.dev/Aryavir07) 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="230" />
+
+![Profile views](https://gpvc.arturio.dev/Aryavir07) 
+
 - 🔭 I’m currently working on Deep Learning Projects 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Research 
