@@ -3,6 +3,8 @@ My specialties include quickly learning new skills and programming languages, pr
 #####  I'm open for research collaborations in the field of AI and Security & Privacy.
 Skills: Python, Java, C/C++, SQL, Django, Flask, MongoDB, JavaScript, RestAPI, Git.
 
+![Profile views](https://gpvc.arturio.dev/Aryavir07) 
+
 - 🔭 I’m currently working on Deep Learning Projects 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Research 
@@ -15,8 +17,5 @@ Skills: Python, Java, C/C++, SQL, Django, Flask, MongoDB, JavaScript, RestAPI, G
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryavir07)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aryavir07)  
 
-![Profile views](https://gpvc.arturio.dev/Aryavir07)  
