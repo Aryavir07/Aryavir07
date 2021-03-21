@@ -42,14 +42,7 @@ JSON         46 mins       █▓░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,798 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 632 tasks so far           
-⏳  Longest streak is 380 days
-<!-- TODO-IST:END -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=tokyonight)
 
 📈 My GitHub Stats
 
