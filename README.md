@@ -13,9 +13,12 @@ Skills: Python, Java, C/C++, SQL, Django, Flask, MongoDB, JavaScript, RestAPI, G
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/Aryavir07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aryavir07//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@roswell0007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://aryaveer.herokuapp.com/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aryavir07)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&count_private=true)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryavir07&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryavir07&repo=convoychat" />
+</a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aryavir07)  
 
