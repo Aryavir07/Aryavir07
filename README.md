@@ -34,6 +34,19 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## :trophy: My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Aryavir07&count_private=true&show_icons=true&theme=tokyonight">
