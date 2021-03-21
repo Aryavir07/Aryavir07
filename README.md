@@ -20,6 +20,8 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 - 📫 How to reach me: [@Aryavir07](https://www.linkedin.com/in/aryavir07/);
 - 📝 [Resume](https://drive.google.com/file/d/1D8hZHhIhUHO4f7mI5kPGzTErraqVZPIn/view)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryavir07)  
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -30,14 +32,6 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning scsscsc 
-- 👯 I’m looking to collaborate on scscssc 
-- 📫 How to reach me: scscsc 
-
-
 ## :trophy: My Github Stats:
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Aryavir07&count_private=true&show_icons=true&theme=tokyonight">
