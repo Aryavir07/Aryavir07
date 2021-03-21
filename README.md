@@ -36,11 +36,8 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 
 📈 My GitHub Stats
 
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=tokyonight)
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&theme=gotham" alt="Aryavir07" />
 
 
 
