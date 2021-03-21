@@ -3,7 +3,7 @@ My specialties include quickly learning new skills and programming languages, pr
 #####  I'm open for research collaborations in the field of AI and Security & Privacy.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="230" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 
 ![Profile views](https://gpvc.arturio.dev/Aryavir07) 
 
