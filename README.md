@@ -32,19 +32,10 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning scsscsc 
+- 👯 I’m looking to collaborate on scscssc 
+- 📫 How to reach me: scscsc 
 
 
 ## :trophy: My Github Stats:
