@@ -1,45 +1,61 @@
-### Hi there👋 , I'm Aryaveer.  ![](https://komarev.com/ghpvc/?username=Aryavir07&label=PROFILE+VIEWS&color=green)
-##### First and foremost, I love writing code. Ever since writing my first program in C++ language and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problem specially security related problems. 
-##### I believe in the power of programming to transform and improve the lives of people around the world.
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/roswell0007">
+  <img align="left" alt="Aryaveer | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/aryavir07/">
+  <img align="left" alt="Aryaveer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-##### My specialties include quickly learning new skills and programming languages, problem solving, website optimization and Model View Controller methods of organizing code. Till now, I have Python, C++, Java, HTML/CSS, Javascript(Basics), Django, Flask, SQL and Github under my belt.
-##### Machine Learning specially Computer Vision and NLP, I find it most interesting, I believe it can be used to solve many real life problems. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) .
-##### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
+Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-taught Web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-[website]: https://google.com
-[twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
-[webdevplaylist]: https://www.youtube.com/
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@Aryavir07](https://www.linkedin.com/in/aryavir07/);
+- 📝 [Resume](https://drive.google.com/file/d/1D8hZHhIhUHO4f7mI5kPGzTErraqVZPIn/view)
 
-#
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Python   7 hrs 13 mins     ██████████████▒░░░░░░░░░░   56.80 % 
+HTML/CSS   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Flask       59 mins        █░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Django         58 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JSON         46 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+```
+<!--END_SECTION:waka-->
 
 
-<!--
-**Aryavir07/Aryavir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  7,798 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 632 tasks so far           
+⏳  Longest streak is 380 days
+<!-- TODO-IST:END -->
 
-[![Aarya's github stats](https://github-readme-stats.vercel.app/api?username=Aryavir07&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryavir07&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aryavir07&show_icons=true&theme=gotham" alt="Aryavir07" />
 
 
 
 
-
-<!--
-
--->
