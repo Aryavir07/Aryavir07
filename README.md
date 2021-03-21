@@ -19,8 +19,6 @@ Skills: Python, Java, C/C++, SQL, Django, Flask, MongoDB, JavaScript, RestAPI, G
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryavir07)  
 
-![GitHub metrics](https://metrics.lecoq.io/Aryavir07)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aryavir07)  
 
 ![Profile views](https://gpvc.arturio.dev/Aryavir07)  
