@@ -1,6 +1,6 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Aryaveer
 My specialties include quickly learning new skills and programming languages, problem-solving, website optimization, and Model View Controller methods of organizing code. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :) 
-
+#####  I'm open for research collaborations in the field of AI and Security & Privacy.
 Skills: Python, Java, C/C++, SQL, Django, Flask, MongoDB, JavaScript, RestAPI, Git.
 
 - 🔭 I’m currently working on Deep Learning Projects 
