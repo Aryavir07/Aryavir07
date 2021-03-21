@@ -21,6 +21,9 @@ Hi, I'm [Aryaveer Singh](https://aryaveer.herokuapp.com/), a passionate self-tau
 - 📝 [Resume](https://drive.google.com/file/d/1D8hZHhIhUHO4f7mI5kPGzTErraqVZPIn/view)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aryavir07)  
+![GitHub metrics](https://metrics.lecoq.io/Aryavir07) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aryavir07)  
+
 
 **Languages and Tools:**  
 
