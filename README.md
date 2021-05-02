@@ -1,7 +1,7 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Aryaveer
 My specialties include quickly learning new skills and programming languages. I love to work with algorithms, machine learning models, problem-solving, and contributing to open sources. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or algorithms I can integrate into the coding web in my Head :). Currently I'm undergrad student at GGS Indraprastha University, New Delhi, INDIA.
 
-#####  I'm open for research collaborations in the field of AI and Security & Privacy.
+##### 
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
