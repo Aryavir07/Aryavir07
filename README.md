@@ -8,7 +8,7 @@ My specialties include quickly learning new skills and programming languages. I 
 
 ![Profile views](https://gpvc.arturio.dev/Aryavir07) 
 
-- 🔭 I’m currently working as Frontend Developer at Lumiere32
+- 🔭 I’m currently working as Frontend Developer Intern at Lumiere32
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 How to reach me? <a href="https://www.linkedin.com/in/aryavir07/">Click here !</a>
 
